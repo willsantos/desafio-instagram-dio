@@ -136,6 +136,10 @@ body {
     .wrapper {
         width: 100%;
     }
+    .instagram__acesso {
+        width: 50%;
+        margin-right:10px;
+    }
 }
 
 @media (max-width: 650px) {
